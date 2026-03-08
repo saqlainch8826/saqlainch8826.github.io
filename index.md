@@ -30,6 +30,7 @@ I integrate qualitative research in International Relations and Governance with 
 * **[AI, Nukes, and Hypocrisy: Why Global Powers Will Never Disarm](https://spinetimes.pk/?p=15258)**
 * **[Behind India’s Peaceful Facade: Meddling Beyond Its Borders](https://www.paradigmshift.com.pk/indian-involvement/)**
 * **[Educating Women, Empowering Nations: The Case for Girls’ Education in Pakistan](https://spinetimes.pk/?p=14736)**
+  
 ---
 
 *Technical Stack: Python (Pandas, NumPy, Matplotlib, Seaborn) | Mathematical Modeling | Qualitative & Quantitative Research*
