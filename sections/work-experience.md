@@ -3,7 +3,7 @@
 ### Independent Political Researcher & Columnist
 **[October 2023 – Current]**
 
-* **Authored 10 analytical columns** examining the intersection of emerging technologies (AI), behavioral psychology, and international security.
+* **Authored upto 10 analytical columns** examining the intersection of emerging technologies (AI), behavioral psychology, and international security.
 * **Integrated Python (Pandas, Matplotlib)** into core research methodologies to validate qualitative geopolitical insights with empirical data.
 * **Analyzed computational trends** and narrative power shifts to evaluate their influence on diplomatic decision-making and regional governance.
 
