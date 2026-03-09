@@ -32,5 +32,4 @@ I integrate qualitative research in International Relations and Governance with 
 * **[Educating Women, Empowering Nations: The Case for Girls’ Education in Pakistan](https://spinetimes.pk/?p=14736)**
   
 ---
-
 *Technical Stack: Python (Pandas, NumPy, Matplotlib, Seaborn) | Mathematical Modeling | Qualitative & Quantitative Research*
