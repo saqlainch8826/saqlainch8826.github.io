@@ -9,9 +9,9 @@
 * **[AI, Nukes, and Hypocrisy: Why Global Powers Will Never Disarm](https://spinetimes.pk/?p=15258)**
 * **[Behind India’s Peaceful Facade: Meddling Beyond Its Borders](https://www.paradigmshift.com.pk/indian-involvement/)**
 * **[Educating Women, Empowering Nations: The Case for Girls’ Education in Pakistan](https://spinetimes.pk/?p=14736)**
-* **[ پاکستان کی زرعی معیشت، ہاؤسنگ سوسائٹیز اور صنعتی زونز | Pakistan's agricultural economy, housing societies and industrial zones](https://www.humsub.com.pk/557756/saqlain-haider-cheema-3/)**
-* **[پاکستان کا قیمتی اثاثہ: مستقبل کے معمار یا منشیات کے شکار؟ | Pakistan's valuable asset: Architects of the future or drug victims?](https://www.humsub.com.pk/554769/saqlain-haider-cheema-2/)**
-* **[صدر رئیسی کی مرگ: حکومتی غفلت یا بیرونی مداخلت | President Raisi's death: Government negligence or foreign interference](https://www.humsub.com.pk/550581/saqlain-haider-cheema/)**
+* **[ پاکستان کی زرعی معیشت، ہاؤسنگ سوسائٹیز اور صنعتی زونز](https://www.humsub.com.pk/557756/saqlain-haider-cheema-3/)**
+* **[پاکستان کا قیمتی اثاثہ: مستقبل کے معمار یا منشیات کے شکار؟](https://www.humsub.com.pk/554769/saqlain-haider-cheema-2/)**
+* **[صدر رئیسی کی مرگ: حکومتی غفلت یا بیرونی مداخلت](https://www.humsub.com.pk/550581/saqlain-haider-cheema/)**
 
   ---
 [← Back to Home](../index.md)
