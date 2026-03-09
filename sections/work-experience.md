@@ -23,3 +23,6 @@
 
 * **Facilitating humanitarian response frameworks**, bridging institutional resources with community needs during regional crises.
 * **Executing risk-mitigation strategies** to ensure efficient resource allocation and ground-level support in high-pressure environments.
+
+---
+[← Back to Home](../index.md)
