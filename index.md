@@ -1,12 +1,5 @@
-# Saqlain Haider
-**Computational Policy Analyst & Researcher**
-
-*Bridging the gap between traditional social sciences and modern digital governance through data-driven policy evaluation.*
-
----
-
 ## Executive Profile
-I integrate qualitative research in International Relations and Governance with empirical, Python-based statistical modeling. My focus is on algorithmic transparency, public finance optimization, and regional security dynamics.
+Political researcher using data analysis and visualization to explore how emerging technologies and behavioral dynamics influence governance institutions and regional security.
 
 [Download CV (PDF)](#)
 
