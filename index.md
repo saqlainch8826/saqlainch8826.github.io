@@ -1,7 +1,8 @@
 ## Executive Profile
 Political researcher using data analysis and visualization to explore how emerging technologies and behavioral dynamics influence governance institutions and regional security.
 
-[Download CV (PDF)](#)
+[📄 Download CV (PDF)](Saqlain-Haider.CV.pdf)   
+[💻 Google Colab Profile](https://colab.research.google.com/drive/19joEdiJ3Ov4ZALm-GQl4SUGBX-cKxLIZ#scrollTo=olWaySpKybbF)
 
 ---
 
