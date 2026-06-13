@@ -1,6 +1,6 @@
 # Education
 
-**[16/09/2021 – 22/02/2024] BS Bridging Pakistan Studies**
+**[16/09/2021 – 22/02/2024] BS Pakistan Studies**
 *National University of Modern Languages (NUML), Islamabad* * **CGPA:** 3.64 / 4.00 
 * [View Degree/Transcript](https://drive.google.com/file/d/1IpwWiN8t1d6TuVfF9IIzl8-bEQiedi67/view?usp=drive_link)
 
