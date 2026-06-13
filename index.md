@@ -27,4 +27,4 @@ Political researcher and columnist producing computational analysis of algorithm
 
 ## Skills
 * **Tools:** Python, Google Colab, GitHub, Canva, Notion, MS Office (Word, Excel, PowerPoint)
-* **Professional Skills:** Data cleaning and filtering, groupby aggregation, data analysis, data visualization, policy analysis and writing, source verification, qualitative and quantitative research, algorithmic bias evaluation
+* **Professional Skills:** data cleaning and filtering, groupby aggregation, data analysis, data visualization, policy analysis and writing, source verification, qualitative and quantitative research, algorithmic bias evaluation
