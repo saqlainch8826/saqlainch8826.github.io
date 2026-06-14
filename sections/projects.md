@@ -1,19 +1,11 @@
 # Technical Projects
 
 ### 1. Auditing Algorithmic Bias in Criminal Justice
-* **Objective:** Quantify racial disparities in criminal risk assessment algorithms.
-* **Data Source:** ProPublica COMPAS Recidivism Dataset.
-* **Key Finding:** Identified a 22% racial disparity in False Positive Rates (Black defendants: 45%, White defendants: 23%).
-* **Methods & Tools:** Python (Matplotlib, NumPy), comparative statistical analysis, and data visualization.
-* [**View Full Case Study & Visualizations**](../compas-audit.md)
 
----
+Audited ProPublica's Broward County COMPAS recidivism dataset using Python libraries including pandas and matplotlib with groupby computation. Computed a 21.3% racial disparity in false positive rates, indicating that algorithmic risk tools require independent audit and human oversight prior to courtroom deployment.
 
-### 2. Optimizing Governance: Education Budget Efficiency
-* **Objective:** Cost-effectiveness analysis of district spending and provincial resource allocation.
-* **Focus:** Evaluating the correlation between the Education Budget (Millions PKR) and Literacy Rate (%).
-* **Methods & Tools:** Python (Pandas, Seaborn) and empirical policy evaluation.
-* [**View Full Case Study & Visualizations**](../punjab-budget.md)
+- **Code and full analysis:** [github.com/saqlainch8826/compas-bias-audit](https://github.com/saqlainch8826/compas-bias-audit)
+- [**View Full Case Study & Visualizations**](https://saqlainch8826.github.io/compas-audit.html)
 
 ---
 [← Back to Home](../index.md)
