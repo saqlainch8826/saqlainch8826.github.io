@@ -3,26 +3,37 @@
 ### Independent Political Researcher & Columnist
 **[October 2023 – Current]**
 
-* **Authored upto 10 analytical columns** examining the intersection of emerging technologies (AI), behavioral psychology, and international security.
-* **Integrated Python (Pandas, Matplotlib)** into core research methodologies to validate qualitative geopolitical insights with empirical data.
-* **Analyzed computational trends** and narrative power shifts to evaluate their influence on diplomatic decision-making and regional governance.
+Published eight analytical columns across national policy 
+and research outlets, examining systemic governance 
+failures in technology, security, and policy domains. 
+Research centers on how modern institutions and 
+algorithmic systems undermine accountability and 
+strengthen centralized control.
 
 ---
 
 ### Research Intern | Institute of Regional Studies (IRS)
 **[02/05/2025 – 26/09/2025]** | *Islamabad, Pakistan*
 
-* **Synthesized UN datasets and primary archives** to model human rights and information-control trends through quantitative visualization.
-* **Authored the strategic study "Operation Sindoor vs. Operation Bunyan al Marsoos,"** evaluating the impact of military signaling on regional security.
-* **Developed strategic policy briefs** and discourse scripts for diplomatic and institutional stakeholders regarding state-led governance interventions.
+Contributed to the India Program's policy research by 
+drafting sections and verifying all sources and claims 
+for analytical reports, including Operation Sindoor vs. 
+Banyan al-Marsoos, and preparing speaker materials for 
+institutional events. Supported a book-length study on 
+Kashmir by extracting quantitative data on human rights 
+violations from UN reports and primary archives, 
+producing charts, graphs, and comparative tables for 
+publication.
 
 ---
 
 ### Youth & Volunteer | Pakistan Red Crescent Society (PRCS)
 **[07/11/2025 – Current]** | *Islamabad, Pakistan*
 
-* **Facilitating humanitarian response frameworks**, bridging institutional resources with community needs during regional crises.
-* **Executing risk-mitigation strategies** to ensure efficient resource allocation and ground-level support in high-pressure environments.
+Delivered environmental awareness campaigns, emergency 
+preparedness education, first aid training, and community 
+outreach initiatives for vulnerable communities across 
+Islamabad.
 
 ---
 [← Back to Home](../index.md)
