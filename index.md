@@ -1,8 +1,8 @@
-## Executive Profile
+## Research Profile
 Political researcher and columnist producing computational analysis of algorithmic systems as governance instruments that concentrate power, misclassify populations, and evade accountability. Published work includes a computational bias audit of a criminal risk-scoring algorithm and eight analytical columns across national policy outlets.
 
 [📄 Download CV (PDF)](Saqlain-Haider.CV.pdf)   
-[💻 Google Colab Profile](https://drive.google.com/drive/folders/1MfR5XTTacT1xcxjCnlDKV734KL9j60_w?usp=drive_link)
+[💻 Computational Notebooks (Google Colab)](https://drive.google.com/drive/folders/1MfR5XTTacT1xcxjCnlDKV734KL9j60_w?usp=drive_link)
 
 ---
 
@@ -21,7 +21,7 @@ Political researcher and columnist producing computational analysis of algorithm
 *High-impact computational policy analysis.*
 
 ### 1. [Auditing Algorithmic Bias in Criminal Justice](compas-audit.md)
-* **Signal:** Quantified a 22% racial disparity in False Positive Rates within the COMPAS dataset using Python (Pandas, Matplotlib) to advocate for algorithmic transparency.
+Audited ProPublica's Broward County COMPAS recidivism dataset using Python libraries including pandas and matplotlib with groupby computation. Computed a 21.3% racial disparity in false positive rates, indicating that algorithmic risk tools require independent audit and human oversight prior to courtroom deployment.
   
 ---
 
